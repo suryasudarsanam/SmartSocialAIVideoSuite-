@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:03,560
+Hello, this is a test video for cross-post AI.
+
+2
+00:00:03,560 --> 00:00:08,760
+It shows how we can automatically process videos for Instagram, YouTube and Facebook.
+

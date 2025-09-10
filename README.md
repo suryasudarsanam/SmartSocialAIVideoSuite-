@@ -1,4 +1,4 @@
-# CrossPost AI - Automated Multi-Platform Video Processing
+# Smart Social AI - Automated Multi-Platform Video Processing
 
 A full-stack application that automatically processes videos for multiple social media platforms with AI-generated captions and hashtags.
 
